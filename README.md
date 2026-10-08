@@ -6,11 +6,6 @@ I live in Piedmont, Italy. I write software for two things: studying with less f
 
 [cli-funnel](https://github.com/SuperTost100/cli-funnel) lets you call Claude Code, Codex, Cursor Agent and Antigravity like an API. Each CLI has its own flags, event format, login and model list. cli-funnel turns them into one call, one event stream and one result shape, and your runs count against the subscription you already have instead of an API bill. It also runs an OpenAI-compatible server, so any OpenAI SDK can use it, and ships React components for picking a model and signing in.
 
-```bash
-npm install cli-funnel
-npx cli-funnel doctor
-```
-
 ## Politost
 
 Interactive textbooks and study tools for students.
