@@ -25,4 +25,3 @@ Interactive textbooks and study tools for students.
 - [MoreOpenWhisperer](https://github.com/SuperTost100/moreopenwhisperer): an OpenWhispr fork for desktop dictation with Antigravity, your own keys or local models, and no cloud account.
 - [IWantAds](https://github.com/SuperTost100/IWantAds): a Zen Browser mod that switches your ad blockers off with one click, or on the sites you list.
 - [areadidattica](https://github.com/SuperTost100/areadidattica-cli): your PoliTO course avvisi, school messages and deadlines as a small JSON API on your own computer, so a script or a bot can read them.
-- [Chimiquiz](https://github.com/SuperTost100/chimiquiz): a free practice run of the Politecnico di Torino chemistry test in the browser, with 15 questions in 25 minutes.
