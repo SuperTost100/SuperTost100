@@ -18,10 +18,10 @@ Interactive textbooks and study tools for students.
 - [Smartbook](https://github.com/SuperTost100/politost-smartbook): a web reader for smartbooks, textbooks with numbered formulas, worked exercises, a Python lab and graphs.
 - [politost-content](https://github.com/SuperTost100/politost-content): the smartbook format. The spec, the parser and validator, and the CLI that packs a book into a `.ptsb` file.
 - [politost-books](https://github.com/SuperTost100/politost-books): the free smartbooks the reader opens. Write or fix a book with a pull request, and the merge publishes it to [books.politost.it](https://books.politost.it).
+- [Smart Builder](https://github.com/SuperTost100/politost-smartbook-builder): turns lecture notes, textbooks and past exams into a smartbook, using the AI command-line tools you already pay for.
 
 ## Tools
 
-- [Smart Builder](https://github.com/SuperTost100/politost-smartbook-builder): turns lecture notes, textbooks and past exams into a smartbook, using the AI command-line tools you already pay for.
 - [MoreOpenWhisperer](https://github.com/SuperTost100/moreopenwhisperer): an OpenWhispr fork for desktop dictation with Antigravity, your own keys or local models, and no cloud account.
 - [IWantAds](https://github.com/SuperTost100/IWantAds): a Zen Browser mod that switches your ad blockers off with one click, or on the sites you list.
 - [areadidattica](https://github.com/SuperTost100/areadidattica-cli): your PoliTO course avvisi, school messages and deadlines as a small JSON API on your own computer, so a script or a bot can read them.
